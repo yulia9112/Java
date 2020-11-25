@@ -1,0 +1,1820 @@
+28.10.20 19:55:53 Программа запущена
+28.10.20 19:56:00 Загрузка списка из файла...
+28.10.20 19:56:00 Загрузка выполнено успешно
+28.10.20 19:56:29 Сохранение списка в файл...
+28.10.20 19:56:29 Сохранение выполнено успешно
+28.10.20 19:56:37 Программа завершена
+28.10.20 20:27:49 Программа запущена
+28.10.20 20:27:58 Сохранение списка в файл...
+28.10.20 20:27:58 Сохранение выполнено успешно
+28.10.20 20:28:32 Загрузка списка из файла...
+28.10.20 20:28:32 Не удалось выполнить загрузку
+28.10.20 20:28:32 java.io.FileNotFoundException: ListTrans.txt (Не удается найти указанный файл)
+28.10.20 20:28:32 Загрузка выполнено успешно
+28.10.20 20:29:28 Программа запущена
+28.10.20 20:29:33 Загрузка списка из файла...
+28.10.20 20:29:33 Загрузка выполнено успешно
+28.10.20 20:36:52 Сохранение списка в файл...
+28.10.20 20:36:52 Сохранение выполнено успешно
+28.10.20 20:37:45 Сохранение списка в файл...
+28.10.20 20:37:45 Сохранение выполнено успешно
+28.10.20 21:08:49 Сохранение списка в файл...
+28.10.20 21:08:49 Сохранение выполнено успешно
+28.10.20 21:35:03 Программа запущена
+28.10.20 21:45:20 Программа запущена
+28.10.20 21:50:54 Программа запущена
+28.10.20 22:56:04 Программа запущена
+28.10.20 22:56:27 Программа запущена
+28.10.20 22:56:30 Запись в файл...
+28.10.20 22:56:59 Сохранение выполнено успешно
+28.10.20 22:56:59 Программа завершена
+28.10.20 22:59:17 Программа запущена
+28.10.20 22:59:22 Загрузка списка из файла...
+28.10.20 22:59:22 Загрузка выполнено успешно
+28.10.20 22:59:47 Программа запущена
+28.10.20 22:59:51 Запись в файл...
+28.10.20 23:00:28 Сохранение выполнено успешно
+28.10.20 23:01:19 Программа запущена
+28.10.20 23:01:32 Запись в файл...
+28.10.20 23:02:04 Сохранение выполнено успешно
+28.10.20 23:12:05 Программа запущена
+28.10.20 23:12:08 Запись в файл...
+28.10.20 23:12:52 Сохранение выполнено успешно
+28.10.20 23:38:17 Программа запущена
+28.10.20 23:38:21 Запись в файл...
+28.10.20 23:38:49 Сохранение выполнено успешно
+28.10.20 23:40:42 Программа запущена
+28.10.20 23:40:45 Запись в файл...
+28.10.20 23:41:01 Сохранение выполнено успешно
+28.10.20 23:46:14 Программа запущена
+28.10.20 23:46:18 Запись в файл...
+28.10.20 23:49:09 Программа запущена
+28.10.20 23:49:11 Запись в файл...
+28.10.20 23:50:05 Сохранение выполнено успешно
+29.10.20 00:07:29 Программа запущена
+29.10.20 00:07:32 Запись в файл...
+29.10.20 00:10:16 Программа запущена
+29.10.20 00:10:19 Запись в файл...
+29.10.20 00:11:19 Сохранение выполнено успешно
+29.10.20 00:14:14 Программа запущена
+29.10.20 00:15:17 Программа запущена
+29.10.20 00:15:19 Запись в файл...
+29.10.20 00:15:44 Сохранение выполнено успешно
+29.10.20 00:18:30 Программа запущена
+29.10.20 00:18:32 Запись в файл...
+29.10.20 00:18:45 Сохранение выполнено успешно
+29.10.20 00:19:34 Программа завершена
+29.10.20 00:27:38 Программа запущена
+29.10.20 00:27:42 Запись в файл...
+29.10.20 00:28:05 Сохранение выполнено успешно
+29.10.20 00:30:58 Программа запущена
+29.10.20 00:31:26 Запись в файл...
+29.10.20 00:31:53 Сохранение выполнено успешно
+29.10.20 00:33:29 Программа запущена
+29.10.20 00:37:06 Программа запущена
+29.10.20 00:37:09 Запись в файл...
+29.10.20 00:37:42 Программа запущена
+29.10.20 00:38:52 Программа запущена
+29.10.20 00:38:55 Запись в файл...
+29.10.20 00:39:30 Сохранение выполнено успешно
+29.10.20 09:51:25 Программа запущена
+29.10.20 09:51:29 Запись в файл...
+29.10.20 09:52:42 Программа запущена
+29.10.20 09:52:45 Запись в файл...
+29.10.20 09:53:17 Программа запущена
+29.10.20 09:53:19 Запись в файл...
+29.10.20 09:53:42 Не удалось выполнить сохранение
+29.10.20 09:53:42 java.io.IOException: Stream closed
+29.10.20 09:53:42 Сохранение выполнено успешно
+29.10.20 09:53:42 Программа завершена
+29.10.20 09:58:47 Программа запущена
+29.10.20 09:58:52 Запись в файл...
+29.10.20 09:59:57 Не удалось выполнить сохранение
+29.10.20 09:59:57 java.io.IOException: Stream closed
+29.10.20 09:59:57 Сохранение выполнено успешно
+29.10.20 09:59:57 Программа завершена
+29.10.20 10:00:25 Программа запущена
+29.10.20 10:00:34 Запись в файл...
+29.10.20 10:32:32 Программа запущена
+29.10.20 10:32:35 Загрузка списка из файла...
+29.10.20 10:32:35 Загрузка выполнено успешно
+29.10.20 10:32:35 Программа завершена
+29.10.20 10:32:41 Программа завершена
+29.10.20 10:32:53 Сохранение списка в файл...
+29.10.20 10:32:53 Сохранение выполнено успешно
+29.10.20 10:32:53 Программа завершена
+29.10.20 10:32:57 Запись в файл...
+29.10.20 10:33:23 Не удалось выполнить сохранение
+29.10.20 10:33:23 java.io.IOException: Stream closed
+29.10.20 10:33:23 Сохранение выполнено успешно
+29.10.20 10:33:23 Программа завершена
+29.10.20 10:34:55 Программа запущена
+29.10.20 10:34:57 Запись в файл...
+29.10.20 10:35:19 Сохранение выполнено успешно
+29.10.20 10:35:19 Программа завершена
+29.10.20 10:47:07 Программа запущена
+29.10.20 10:48:29 Программа запущена
+29.10.20 10:48:31 DELITE Start...
+29.10.20 10:48:35 Сохранение выполнено успешно
+29.10.20 10:48:35 Программа завершена
+29.10.20 10:48:54 DELITE Start...
+29.10.20 10:48:57 Сохранение выполнено успешно
+29.10.20 10:48:57 Программа завершена
+29.10.20 10:56:35 Программа запущена
+29.10.20 10:56:39 DELITE Start...
+29.10.20 10:56:41 Сохранение выполнено успешно
+29.10.20 10:56:41 Программа завершена
+29.10.20 10:59:03 Программа запущена
+29.10.20 10:59:07 DELITE Start...
+29.10.20 11:00:29 Программа запущена
+29.10.20 13:12:46 Программа запущена
+29.10.20 13:12:50 Загрузка списка из файла...
+29.10.20 13:12:50 Загрузка выполнено успешно
+29.10.20 13:12:50 Программа завершена
+29.10.20 13:12:56 Программа завершена
+29.10.20 13:12:59 Сохранение списка в файл...
+29.10.20 13:12:59 Сохранение выполнено успешно
+29.10.20 13:12:59 Программа завершена
+29.10.20 13:13:56 Запись в файл...
+29.10.20 13:14:25 Сохранение выполнено успешно
+29.10.20 13:14:25 Программа завершена
+29.10.20 13:15:30 Программа запущена
+29.10.20 13:15:34 Запись в файл...
+29.10.20 13:17:11 Не удалось выполнить сохранение
+29.10.20 13:17:11 java.io.IOException: Stream closed
+29.10.20 13:17:11 Сохранение выполнено успешно
+29.10.20 13:17:11 Программа завершена
+29.10.20 13:18:07 DELITE Start...
+Программа запущена - 23:22:30
+~ArrayList - 100
+add,ID= 0 9800
+add,ID= 1 1200
+add,ID= 2 1500
+add,ID= 3 1600
+add,ID= 4 2300
+add,ID= 5 1600
+add,ID= 6 1600
+add,ID= 7 2300
+add,ID= 8 1600
+add,ID= 9 1500
+add,ID= 10 9900
+add,ID= 11 1600
+add,ID= 12 1300
+add,ID= 13 1400
+add,ID= 14 2000
+add,ID= 15 9700
+add,ID= 16 2600
+add,ID= 17 2100
+add,ID= 18 1600
+add,ID= 19 3000
+add,ID= 20 25300
+add,ID= 21 2200
+add,ID= 22 16000
+add,ID= 23 2500
+add,ID= 24 1900
+add,ID= 25 1900
+add,ID= 26 3000
+add,ID= 27 2000
+add,ID= 28 2100
+add,ID= 29 2000
+add,ID= 30 2200
+add,ID= 31 2600
+add,ID= 32 2500
+add,ID= 33 14700
+add,ID= 34 1500
+add,ID= 35 1700
+add,ID= 36 2900
+add,ID= 37 1700
+add,ID= 38 1600
+add,ID= 39 1300
+add,ID= 40 2000
+add,ID= 41 1800
+add,ID= 42 2500
+add,ID= 43 2100
+add,ID= 44 1900
+add,ID= 45 1400
+add,ID= 46 1700
+add,ID= 47 1300
+add,ID= 48 1400
+add,ID= 49 14000
+add,ID= 50 1200
+add,ID= 51 1300
+add,ID= 52 2100
+add,ID= 53 1200
+add,ID= 54 1000
+add,ID= 55 1500
+add,ID= 56 1800
+add,ID= 57 1400
+add,ID= 58 2300
+add,ID= 59 2100
+add,ID= 60 2300
+add,ID= 61 2300
+add,ID= 62 2100
+add,ID= 63 2200
+add,ID= 64 2000
+add,ID= 65 2300
+add,ID= 66 2200
+add,ID= 67 2500
+add,ID= 68 1900
+add,ID= 69 2100
+add,ID= 70 2700
+add,ID= 71 2500
+add,ID= 72 2100
+add,ID= 73 18700
+add,ID= 74 1700
+add,ID= 75 3000
+add,ID= 76 2200
+add,ID= 77 1600
+add,ID= 78 1800
+add,ID= 79 1800
+add,ID= 80 1700
+add,ID= 81 1700
+add,ID= 82 1600
+add,ID= 83 900
+add,ID= 84 1800
+add,ID= 85 3000
+add,ID= 86 1500
+add,ID= 87 1900
+add,ID= 88 1200
+add,ID= 89 1000
+add,ID= 90 1500
+add,ID= 91 1800
+add,ID= 92 1600
+add,ID= 93 2200
+add,ID= 94 1700
+add,ID= 95 1300
+add,ID= 96 1800
+add,ID= 97 2700
+add,ID= 98 3300
+add,ID= 99 3000
+addTotalCount = 100
+addTotalTime = 295000
+addMedianTime = 2950
+remove, ID= 94	182500
+remove, ID= 50	127800
+remove, ID= 61	29300
+remove, ID= 87	38900
+remove, ID= 83	28600
+remove, ID= 60	39900
+remove, ID= 38	39900
+remove, ID= 3	37400
+remove, ID= 62	32300
+remove, ID= 59	32800
+removeTotalCount = 10
+removeTotalTime = 589400
+removeMedianTime = 58940
+Программа завершена - 23:22:30
+Программа запущена - 23:22:30
+~LinkedList - 100
+add, ID= 0	132700
+add, ID= 1	12300
+add, ID= 2	2500
+add, ID= 3	5500
+add, ID= 4	3700
+add, ID= 5	2500
+add, ID= 6	3600
+add, ID= 7	6800
+add, ID= 8	3200
+add, ID= 9	3100
+add, ID= 10	4600
+add, ID= 11	4500
+add, ID= 12	5700
+add, ID= 13	3700
+add, ID= 14	4800
+add, ID= 15	3800
+add, ID= 16	5100
+add, ID= 17	4300
+add, ID= 18	4600
+add, ID= 19	3700
+add, ID= 20	5000
+add, ID= 21	4300
+add, ID= 22	4000
+add, ID= 23	4000
+add, ID= 24	17800
+add, ID= 25	4800
+add, ID= 26	4000
+add, ID= 27	4900
+add, ID= 28	5200
+add, ID= 29	4700
+add, ID= 30	4100
+add, ID= 31	7600
+add, ID= 32	3300
+add, ID= 33	4300
+add, ID= 34	3800
+add, ID= 35	4000
+add, ID= 36	5300
+add, ID= 37	4900
+add, ID= 38	4300
+add, ID= 39	27100
+add, ID= 40	4800
+add, ID= 41	4700
+add, ID= 42	3500
+add, ID= 43	3500
+add, ID= 44	3800
+add, ID= 45	9500
+add, ID= 46	4800
+add, ID= 47	4800
+add, ID= 48	7100
+add, ID= 49	4400
+add, ID= 50	6200
+add, ID= 51	8100
+add, ID= 52	3700
+add, ID= 53	4600
+add, ID= 54	4200
+add, ID= 55	4000
+add, ID= 56	5700
+add, ID= 57	8300
+add, ID= 58	3800
+add, ID= 59	2200
+add, ID= 60	2700
+add, ID= 61	2700
+add, ID= 62	6700
+add, ID= 63	2700
+add, ID= 64	2900
+add, ID= 65	3900
+add, ID= 66	3600
+add, ID= 67	4100
+add, ID= 68	4100
+add, ID= 69	3300
+add, ID= 70	3300
+add, ID= 71	3200
+add, ID= 72	3200
+add, ID= 73	7000
+add, ID= 74	3800
+add, ID= 75	4700
+add, ID= 76	22200
+add, ID= 77	4200
+add, ID= 78	7400
+add, ID= 79	4500
+add, ID= 80	5700
+add, ID= 81	4600
+add, ID= 82	5100
+add, ID= 83	5400
+add, ID= 84	4200
+add, ID= 85	6900
+add, ID= 86	6200
+add, ID= 87	5000
+add, ID= 88	5500
+add, ID= 89	3800
+add, ID= 90	3800
+add, ID= 91	3800
+add, ID= 92	4300
+add, ID= 93	5700
+add, ID= 94	3900
+add, ID= 95	5800
+add, ID= 96	4900
+add, ID= 97	3600
+add, ID= 98	3900
+add, ID= 99	3500
+addTotalCount = 100
+addTotalTime = 645600
+addMedianTime = 6456
+remove, ID= 93	63300
+remove, ID= 74	27800
+remove, ID= 38	31600
+remove, ID= 78	16300
+remove, ID= 47	20100
+remove, ID= 95	15700
+remove, ID= 85	13000
+remove, ID= 51	19100
+remove, ID= 27	21100
+remove, ID= 26	27600
+removeTotalCount = 10
+removeTotalTime = 255600
+removeMedianTime = 25560
+Программа завершена - 23:22:30
+
+Программа запущена - 23:24:49
+~ArrayList - 100
+add,ID= 0 8200
+add,ID= 1 1300
+add,ID= 2 1600
+add,ID= 3 1000
+add,ID= 4 900
+add,ID= 5 1100
+add,ID= 6 2200
+add,ID= 7 1600
+add,ID= 8 1900
+add,ID= 9 1100
+add,ID= 10 9800
+add,ID= 11 1700
+add,ID= 12 2700
+add,ID= 13 4100
+add,ID= 14 2700
+add,ID= 15 56400
+add,ID= 16 2600
+add,ID= 17 3500
+add,ID= 18 2600
+add,ID= 19 3300
+add,ID= 20 2900
+add,ID= 21 2800
+add,ID= 22 19400
+add,ID= 23 3400
+add,ID= 24 3400
+add,ID= 25 2800
+add,ID= 26 3300
+add,ID= 27 2900
+add,ID= 28 2300
+add,ID= 29 1700
+add,ID= 30 1900
+add,ID= 31 2000
+add,ID= 32 2100
+add,ID= 33 13200
+add,ID= 34 1500
+add,ID= 35 1500
+add,ID= 36 2300
+add,ID= 37 2500
+add,ID= 38 3100
+add,ID= 39 2500
+add,ID= 40 2500
+add,ID= 41 2100
+add,ID= 42 2400
+add,ID= 43 5400
+add,ID= 44 2300
+add,ID= 45 1900
+add,ID= 46 1900
+add,ID= 47 2000
+add,ID= 48 2600
+add,ID= 49 21000
+add,ID= 50 2800
+add,ID= 51 3300
+add,ID= 52 2400
+add,ID= 53 2600
+add,ID= 54 2300
+add,ID= 55 2100
+add,ID= 56 3400
+add,ID= 57 2700
+add,ID= 58 2200
+add,ID= 59 2000
+add,ID= 60 2400
+add,ID= 61 2400
+add,ID= 62 1800
+add,ID= 63 1400
+add,ID= 64 1800
+add,ID= 65 4700
+add,ID= 66 7000
+add,ID= 67 3100
+add,ID= 68 1800
+add,ID= 69 3700
+add,ID= 70 3900
+add,ID= 71 2200
+add,ID= 72 2300
+add,ID= 73 29300
+add,ID= 74 2900
+add,ID= 75 3000
+add,ID= 76 2300
+add,ID= 77 2400
+add,ID= 78 2000
+add,ID= 79 2800
+add,ID= 80 3300
+add,ID= 81 2400
+add,ID= 82 3000
+add,ID= 83 2300
+add,ID= 84 2400
+add,ID= 85 1200
+add,ID= 86 1500
+add,ID= 87 1700
+add,ID= 88 1500
+add,ID= 89 1800
+add,ID= 90 1900
+add,ID= 91 1500
+add,ID= 92 1800
+add,ID= 93 1900
+add,ID= 94 1500
+add,ID= 95 2000
+add,ID= 96 1900
+add,ID= 97 2100
+add,ID= 98 1600
+add,ID= 99 2000
+addTotalCount = 100
+addTotalTime = 380200
+addMedianTime = 3802
+remove, ID= 54	257300
+remove, ID= 75	70000
+remove, ID= 29	32100
+remove, ID= 79	36400
+remove, ID= 17	49200
+remove, ID= 100	40100
+remove, ID= 54	32000
+remove, ID= 99	33800
+remove, ID= 39	44700
+remove, ID= 92	34100
+removeTotalCount = 10
+removeTotalTime = 629700
+removeMedianTime = 62970
+Программа завершена - 23:24:49
+Программа запущена - 23:24:49
+~LinkedList - 100
+add, ID= 0	93500
+add, ID= 1	12000
+add, ID= 2	3500
+add, ID= 3	4800
+add, ID= 4	3800
+add, ID= 5	3000
+add, ID= 6	2700
+add, ID= 7	5400
+add, ID= 8	3400
+add, ID= 9	66600
+add, ID= 10	3900
+add, ID= 11	4600
+add, ID= 12	3800
+add, ID= 13	4200
+add, ID= 14	5700
+add, ID= 15	4900
+add, ID= 16	5400
+add, ID= 17	4700
+add, ID= 18	5200
+add, ID= 19	5700
+add, ID= 20	4700
+add, ID= 21	5300
+add, ID= 22	5500
+add, ID= 23	5700
+add, ID= 24	5200
+add, ID= 25	5500
+add, ID= 26	4700
+add, ID= 27	4000
+add, ID= 28	5000
+add, ID= 29	5100
+add, ID= 30	5700
+add, ID= 31	4300
+add, ID= 32	4200
+add, ID= 33	4500
+add, ID= 34	4600
+add, ID= 35	4100
+add, ID= 36	3900
+add, ID= 37	4000
+add, ID= 38	4300
+add, ID= 39	4100
+add, ID= 40	4000
+add, ID= 41	3700
+add, ID= 42	3300
+add, ID= 43	4100
+add, ID= 44	3300
+add, ID= 45	3700
+add, ID= 46	3900
+add, ID= 47	4800
+add, ID= 48	3300
+add, ID= 49	4400
+add, ID= 50	5900
+add, ID= 51	3900
+add, ID= 52	4900
+add, ID= 53	5400
+add, ID= 54	5200
+add, ID= 55	4400
+add, ID= 56	5600
+add, ID= 57	4300
+add, ID= 58	4500
+add, ID= 59	4100
+add, ID= 60	5300
+add, ID= 61	4800
+add, ID= 62	4600
+add, ID= 63	4200
+add, ID= 64	4700
+add, ID= 65	5200
+add, ID= 66	4200
+add, ID= 67	4700
+add, ID= 68	5600
+add, ID= 69	5100
+add, ID= 70	4000
+add, ID= 71	3700
+add, ID= 72	4500
+add, ID= 73	4100
+add, ID= 74	4700
+add, ID= 75	4300
+add, ID= 76	3700
+add, ID= 77	4200
+add, ID= 78	4800
+add, ID= 79	3900
+add, ID= 80	4700
+add, ID= 81	5400
+add, ID= 82	4500
+add, ID= 83	8800
+add, ID= 84	3700
+add, ID= 85	3700
+add, ID= 86	4900
+add, ID= 87	5600
+add, ID= 88	4500
+add, ID= 89	4500
+add, ID= 90	5500
+add, ID= 91	6100
+add, ID= 92	6600
+add, ID= 93	4500
+add, ID= 94	6600
+add, ID= 95	4900
+add, ID= 96	5300
+add, ID= 97	4900
+add, ID= 98	15200
+add, ID= 99	5200
+addTotalCount = 100
+addTotalTime = 633300
+addMedianTime = 6333
+remove, ID= 87	88800
+remove, ID= 55	34100
+remove, ID= 97	47900
+remove, ID= 42	33200
+remove, ID= 94	43500
+remove, ID= 12	36200
+remove, ID= 68	34000
+remove, ID= 12	32700
+remove, ID= 56	45800
+remove, ID= 71	36900
+removeTotalCount = 10
+removeTotalTime = 433100
+removeMedianTime = 43310
+Программа завершена - 23:24:49
+
+Программа запущена - 23:25:25
+~ArrayList - 100
+add,ID= 0 8200
+add,ID= 1 1500
+add,ID= 2 1900
+add,ID= 3 2700
+add,ID= 4 4200
+add,ID= 5 2500
+add,ID= 6 2700
+add,ID= 7 1800
+add,ID= 8 2500
+add,ID= 9 1500
+add,ID= 10 13000
+add,ID= 11 3800
+add,ID= 12 3100
+add,ID= 13 5900
+add,ID= 14 4100
+add,ID= 15 16600
+add,ID= 16 2300
+add,ID= 17 2100
+add,ID= 18 1700
+add,ID= 19 1300
+add,ID= 20 1300
+add,ID= 21 1900
+add,ID= 22 13600
+add,ID= 23 1600
+add,ID= 24 2300
+add,ID= 25 2200
+add,ID= 26 2100
+add,ID= 27 1800
+add,ID= 28 2200
+add,ID= 29 2600
+add,ID= 30 1900
+add,ID= 31 1800
+add,ID= 32 2200
+add,ID= 33 16500
+add,ID= 34 2400
+add,ID= 35 2400
+add,ID= 36 2500
+add,ID= 37 3700
+add,ID= 38 2700
+add,ID= 39 2600
+add,ID= 40 2700
+add,ID= 41 4000
+add,ID= 42 2500
+add,ID= 43 3100
+add,ID= 44 2900
+add,ID= 45 2100
+add,ID= 46 2400
+add,ID= 47 2300
+add,ID= 48 2500
+add,ID= 49 14500
+add,ID= 50 2000
+add,ID= 51 2000
+add,ID= 52 2100
+add,ID= 53 3000
+add,ID= 54 2200
+add,ID= 55 2200
+add,ID= 56 2600
+add,ID= 57 2100
+add,ID= 58 3200
+add,ID= 59 2300
+add,ID= 60 2900
+add,ID= 61 2600
+add,ID= 62 2700
+add,ID= 63 2700
+add,ID= 64 2400
+add,ID= 65 3600
+add,ID= 66 3100
+add,ID= 67 2300
+add,ID= 68 3400
+add,ID= 69 3400
+add,ID= 70 2500
+add,ID= 71 2900
+add,ID= 72 3200
+add,ID= 73 25000
+add,ID= 74 3700
+add,ID= 75 2200
+add,ID= 76 2100
+add,ID= 77 4500
+add,ID= 78 3200
+add,ID= 79 2700
+add,ID= 80 2300
+add,ID= 81 1700
+add,ID= 82 2300
+add,ID= 83 2800
+add,ID= 84 1800
+add,ID= 85 2400
+add,ID= 86 2600
+add,ID= 87 2700
+add,ID= 88 3200
+add,ID= 89 2300
+add,ID= 90 3300
+add,ID= 91 3000
+add,ID= 92 2200
+add,ID= 93 6300
+add,ID= 94 2500
+add,ID= 95 148000
+add,ID= 96 3300
+add,ID= 97 2500
+add,ID= 98 4400
+add,ID= 99 1900
+addTotalCount = 100
+addTotalTime = 499000
+addMedianTime = 4990
+remove, ID= 36	196900
+remove, ID= 15	69100
+remove, ID= 10	63900
+remove, ID= 3	48500
+remove, ID= 33	40000
+remove, ID= 79	45500
+remove, ID= 30	54700
+remove, ID= 84	32900
+remove, ID= 97	29600
+remove, ID= 51	27600
+removeTotalCount = 10
+removeTotalTime = 608700
+removeMedianTime = 60870
+Программа завершена - 23:25:26
+Программа запущена - 23:25:26
+~LinkedList - 100
+add, ID= 0	214400
+add, ID= 1	13000
+add, ID= 2	4500
+add, ID= 3	3800
+add, ID= 4	3600
+add, ID= 5	3900
+add, ID= 6	4300
+add, ID= 7	3500
+add, ID= 8	3400
+add, ID= 9	4700
+add, ID= 10	4300
+add, ID= 11	4900
+add, ID= 12	4800
+add, ID= 13	4600
+add, ID= 14	3500
+add, ID= 15	4800
+add, ID= 16	4500
+add, ID= 17	6200
+add, ID= 18	3600
+add, ID= 19	5900
+add, ID= 20	4600
+add, ID= 21	5200
+add, ID= 22	5200
+add, ID= 23	5100
+add, ID= 24	4500
+add, ID= 25	4500
+add, ID= 26	6000
+add, ID= 27	4500
+add, ID= 28	5700
+add, ID= 29	4400
+add, ID= 30	4700
+add, ID= 31	4000
+add, ID= 32	4000
+add, ID= 33	5500
+add, ID= 34	4100
+add, ID= 35	4900
+add, ID= 36	5300
+add, ID= 37	4200
+add, ID= 38	4900
+add, ID= 39	3600
+add, ID= 40	3400
+add, ID= 41	4200
+add, ID= 42	3500
+add, ID= 43	2600
+add, ID= 44	3700
+add, ID= 45	6000
+add, ID= 46	3800
+add, ID= 47	5200
+add, ID= 48	5900
+add, ID= 49	6100
+add, ID= 50	4900
+add, ID= 51	5900
+add, ID= 52	4400
+add, ID= 53	4200
+add, ID= 54	4200
+add, ID= 55	5200
+add, ID= 56	4400
+add, ID= 57	4500
+add, ID= 58	7200
+add, ID= 59	3900
+add, ID= 60	3800
+add, ID= 61	5500
+add, ID= 62	6100
+add, ID= 63	6300
+add, ID= 64	6900
+add, ID= 65	5300
+add, ID= 66	3800
+add, ID= 67	6500
+add, ID= 68	4400
+add, ID= 69	2700
+add, ID= 70	3700
+add, ID= 71	2600
+add, ID= 72	2200
+add, ID= 73	2900
+add, ID= 74	3200
+add, ID= 75	3400
+add, ID= 76	3700
+add, ID= 77	3400
+add, ID= 78	3800
+add, ID= 79	4900
+add, ID= 80	10800
+add, ID= 81	4500
+add, ID= 82	5800
+add, ID= 83	6600
+add, ID= 84	4600
+add, ID= 85	4400
+add, ID= 86	5100
+add, ID= 87	4900
+add, ID= 88	4900
+add, ID= 89	5000
+add, ID= 90	9100
+add, ID= 91	5800
+add, ID= 92	6100
+add, ID= 93	4600
+add, ID= 94	6900
+add, ID= 95	4700
+add, ID= 96	9400
+add, ID= 97	4300
+add, ID= 98	3300
+add, ID= 99	8100
+addTotalCount = 100
+addTotalTime = 698300
+addMedianTime = 6983
+remove, ID= 23	61900
+remove, ID= 90	16400
+remove, ID= 2	27900
+remove, ID= 63	23400
+remove, ID= 97	45200
+remove, ID= 7	14600
+remove, ID= 27	15300
+remove, ID= 3	24400
+remove, ID= 9	25000
+remove, ID= 50	25500
+removeTotalCount = 10
+removeTotalTime = 279600
+removeMedianTime = 27960
+Программа завершена - 23:25:26
+
+Программа запущена - 19:11:36
+~ArrayList - 100
+add,ID= 0 8500
+add,ID= 1 1700
+add,ID= 2 1700
+add,ID= 3 1100
+add,ID= 4 1600
+add,ID= 5 1300
+add,ID= 6 1500
+add,ID= 7 2600
+add,ID= 8 1200
+add,ID= 9 1300
+add,ID= 10 11500
+add,ID= 11 2000
+add,ID= 12 1900
+add,ID= 13 2500
+add,ID= 14 1500
+add,ID= 15 9200
+add,ID= 16 2100
+add,ID= 17 1600
+add,ID= 18 1700
+add,ID= 19 1400
+add,ID= 20 1600
+add,ID= 21 2100
+add,ID= 22 31000
+add,ID= 23 3900
+add,ID= 24 3600
+add,ID= 25 1900
+add,ID= 26 1900
+add,ID= 27 2400
+add,ID= 28 3200
+add,ID= 29 1800
+add,ID= 30 1600
+add,ID= 31 1800
+add,ID= 32 2800
+add,ID= 33 14100
+add,ID= 34 2400
+add,ID= 35 2200
+add,ID= 36 2300
+add,ID= 37 1500
+add,ID= 38 1300
+add,ID= 39 1300
+add,ID= 40 1600
+add,ID= 41 1400
+add,ID= 42 1900
+add,ID= 43 1400
+add,ID= 44 1900
+add,ID= 45 1600
+add,ID= 46 1400
+add,ID= 47 1500
+add,ID= 48 1200
+add,ID= 49 8300
+add,ID= 50 900
+add,ID= 51 1300
+add,ID= 52 1200
+add,ID= 53 1100
+add,ID= 54 1700
+add,ID= 55 1200
+add,ID= 56 1100
+add,ID= 57 1800
+add,ID= 58 1700
+add,ID= 59 1300
+add,ID= 60 1000
+add,ID= 61 1700
+add,ID= 62 5500
+add,ID= 63 2400
+add,ID= 64 2100
+add,ID= 65 3400
+add,ID= 66 2500
+add,ID= 67 2400
+add,ID= 68 2700
+add,ID= 69 2500
+add,ID= 70 4000
+add,ID= 71 2100
+add,ID= 72 3100
+add,ID= 73 17500
+add,ID= 74 2900
+add,ID= 75 1900
+add,ID= 76 1700
+add,ID= 77 1900
+add,ID= 78 2500
+add,ID= 79 1900
+add,ID= 80 1600
+add,ID= 81 1500
+add,ID= 82 1100
+add,ID= 83 700
+add,ID= 84 800
+add,ID= 85 800
+add,ID= 86 1000
+add,ID= 87 1600
+add,ID= 88 700
+add,ID= 89 600
+add,ID= 90 500
+add,ID= 91 500
+add,ID= 92 500
+add,ID= 93 600
+add,ID= 94 500
+add,ID= 95 600
+add,ID= 96 900
+add,ID= 97 1200
+add,ID= 98 1000
+add,ID= 99 1500
+addTotalCount = 100
+addTotalTime = 262000
+addMedianTime = 2620
+remove, ID= 84	141600
+remove, ID= 38	44600
+remove, ID= 90	24200
+remove, ID= 16	30100
+remove, ID= 21	38600
+remove, ID= 48	32900
+remove, ID= 84	22800
+remove, ID= 5	28800
+remove, ID= 33	26400
+remove, ID= 39	32400
+removeTotalCount = 10
+removeTotalTime = 422400
+removeMedianTime = 42240
+Программа завершена - 19:11:36
+Программа запущена - 19:11:36
+~LinkedList - 100
+add, ID= 0	100800
+add, ID= 1	11200
+add, ID= 2	5000
+add, ID= 3	4200
+add, ID= 4	5900
+add, ID= 5	6400
+add, ID= 6	4100
+add, ID= 7	4100
+add, ID= 8	3600
+add, ID= 9	2300
+add, ID= 10	3800
+add, ID= 11	3900
+add, ID= 12	2500
+add, ID= 13	4000
+add, ID= 14	4100
+add, ID= 15	3500
+add, ID= 16	2200
+add, ID= 17	2600
+add, ID= 18	2200
+add, ID= 19	2100
+add, ID= 20	2600
+add, ID= 21	2300
+add, ID= 22	1900
+add, ID= 23	1700
+add, ID= 24	1800
+add, ID= 25	1800
+add, ID= 26	2800
+add, ID= 27	3500
+add, ID= 28	3000
+add, ID= 29	2400
+add, ID= 30	2400
+add, ID= 31	2900
+add, ID= 32	2100
+add, ID= 33	2700
+add, ID= 34	3500
+add, ID= 35	2900
+add, ID= 36	2300
+add, ID= 37	2800
+add, ID= 38	3500
+add, ID= 39	3900
+add, ID= 40	4200
+add, ID= 41	8200
+add, ID= 42	5100
+add, ID= 43	5300
+add, ID= 44	5100
+add, ID= 45	4400
+add, ID= 46	5100
+add, ID= 47	4700
+add, ID= 48	5600
+add, ID= 49	3800
+add, ID= 50	5000
+add, ID= 51	3500
+add, ID= 52	4000
+add, ID= 53	3600
+add, ID= 54	4700
+add, ID= 55	3800
+add, ID= 56	3100
+add, ID= 57	2800
+add, ID= 58	5200
+add, ID= 59	4100
+add, ID= 60	4000
+add, ID= 61	4400
+add, ID= 62	5300
+add, ID= 63	3400
+add, ID= 64	3400
+add, ID= 65	2900
+add, ID= 66	3300
+add, ID= 67	2800
+add, ID= 68	3600
+add, ID= 69	3300
+add, ID= 70	1900
+add, ID= 71	2500
+add, ID= 72	2400
+add, ID= 73	4800
+add, ID= 74	3700
+add, ID= 75	4400
+add, ID= 76	5000
+add, ID= 77	4900
+add, ID= 78	5200
+add, ID= 79	4600
+add, ID= 80	4700
+add, ID= 81	10300
+add, ID= 82	4800
+add, ID= 83	6300
+add, ID= 84	10500
+add, ID= 85	4100
+add, ID= 86	5100
+add, ID= 87	5800
+add, ID= 88	4900
+add, ID= 89	5200
+add, ID= 90	5300
+add, ID= 91	17800
+add, ID= 92	6000
+add, ID= 93	6700
+add, ID= 94	6200
+add, ID= 95	6200
+add, ID= 96	4600
+add, ID= 97	5600
+add, ID= 98	5100
+add, ID= 99	5600
+addTotalCount = 100
+addTotalTime = 529200
+addMedianTime = 5292
+remove, ID= 34	62400
+remove, ID= 38	24300
+remove, ID= 84	44600
+remove, ID= 81	33100
+remove, ID= 40	27100
+remove, ID= 86	19200
+remove, ID= 11	17200
+remove, ID= 48	17000
+remove, ID= 81	18100
+remove, ID= 50	15400
+removeTotalCount = 10
+removeTotalTime = 278400
+removeMedianTime = 27840
+Программа завершена - 19:11:36
+
+Программа запущена - 19:12:08
+~ArrayList - 100
+add,ID= 0 12300
+add,ID= 1 2100
+add,ID= 2 1900
+add,ID= 3 1800
+add,ID= 4 2500
+add,ID= 5 1500
+add,ID= 6 2600
+add,ID= 7 2200
+add,ID= 8 1700
+add,ID= 9 1500
+add,ID= 10 11800
+add,ID= 11 3500
+add,ID= 12 2300
+add,ID= 13 2300
+add,ID= 14 3300
+add,ID= 15 15700
+add,ID= 16 12200
+add,ID= 17 1800
+add,ID= 18 2600
+add,ID= 19 3700
+add,ID= 20 3100
+add,ID= 21 2600
+add,ID= 22 15900
+add,ID= 23 2700
+add,ID= 24 3500
+add,ID= 25 2600
+add,ID= 26 2700
+add,ID= 27 2500
+add,ID= 28 2300
+add,ID= 29 3300
+add,ID= 30 2700
+add,ID= 31 2200
+add,ID= 32 2400
+add,ID= 33 14500
+add,ID= 34 1900
+add,ID= 35 2700
+add,ID= 36 5100
+add,ID= 37 2600
+add,ID= 38 3800
+add,ID= 39 2800
+add,ID= 40 2300
+add,ID= 41 2800
+add,ID= 42 2200
+add,ID= 43 3900
+add,ID= 44 1900
+add,ID= 45 4500
+add,ID= 46 3400
+add,ID= 47 2400
+add,ID= 48 3100
+add,ID= 49 37600
+add,ID= 50 2100
+add,ID= 51 2700
+add,ID= 52 1900
+add,ID= 53 1600
+add,ID= 54 2200
+add,ID= 55 1800
+add,ID= 56 1900
+add,ID= 57 2200
+add,ID= 58 2200
+add,ID= 59 2600
+add,ID= 60 1600
+add,ID= 61 3000
+add,ID= 62 3000
+add,ID= 63 2900
+add,ID= 64 2300
+add,ID= 65 5000
+add,ID= 66 3400
+add,ID= 67 3700
+add,ID= 68 15100
+add,ID= 69 3700
+add,ID= 70 2000
+add,ID= 71 2400
+add,ID= 72 3000
+add,ID= 73 24600
+add,ID= 74 3100
+add,ID= 75 1700
+add,ID= 76 1600
+add,ID= 77 2800
+add,ID= 78 2200
+add,ID= 79 2200
+add,ID= 80 2000
+add,ID= 81 2300
+add,ID= 82 2200
+add,ID= 83 6300
+add,ID= 84 3500
+add,ID= 85 1800
+add,ID= 86 6000
+add,ID= 87 2300
+add,ID= 88 2000
+add,ID= 89 2000
+add,ID= 90 1400
+add,ID= 91 2000
+add,ID= 92 1500
+add,ID= 93 2700
+add,ID= 94 2100
+add,ID= 95 1500
+add,ID= 96 1900
+add,ID= 97 2200
+add,ID= 98 5400
+add,ID= 99 3100
+addTotalCount = 100
+addTotalTime = 400000
+addMedianTime = 4000
+remove, ID= 59	157800
+remove, ID= 59	65400
+remove, ID= 43	33000
+remove, ID= 72	32200
+remove, ID= 45	32600
+remove, ID= 57	37100
+remove, ID= 32	37100
+remove, ID= 79	40800
+remove, ID= 62	25300
+remove, ID= 43	26200
+removeTotalCount = 10
+removeTotalTime = 487500
+removeMedianTime = 48750
+Программа завершена - 19:12:08
+Программа запущена - 19:12:08
+~LinkedList - 100
+add, ID= 0	163700
+add, ID= 1	12900
+add, ID= 2	3500
+add, ID= 3	3000
+add, ID= 4	3100
+add, ID= 5	3700
+add, ID= 6	4100
+add, ID= 7	3600
+add, ID= 8	4700
+add, ID= 9	3500
+add, ID= 10	4000
+add, ID= 11	5100
+add, ID= 12	6700
+add, ID= 13	3300
+add, ID= 14	5600
+add, ID= 15	3900
+add, ID= 16	4200
+add, ID= 17	4600
+add, ID= 18	5300
+add, ID= 19	4200
+add, ID= 20	4800
+add, ID= 21	5100
+add, ID= 22	4900
+add, ID= 23	4500
+add, ID= 24	5100
+add, ID= 25	4500
+add, ID= 26	4200
+add, ID= 27	4000
+add, ID= 28	4800
+add, ID= 29	3500
+add, ID= 30	3600
+add, ID= 31	3700
+add, ID= 32	3400
+add, ID= 33	3600
+add, ID= 34	3600
+add, ID= 35	4200
+add, ID= 36	3000
+add, ID= 37	2900
+add, ID= 38	3200
+add, ID= 39	3500
+add, ID= 40	3700
+add, ID= 41	3500
+add, ID= 42	3200
+add, ID= 43	4000
+add, ID= 44	3300
+add, ID= 45	3700
+add, ID= 46	3700
+add, ID= 47	4600
+add, ID= 48	7500
+add, ID= 49	4000
+add, ID= 50	4200
+add, ID= 51	6100
+add, ID= 52	5000
+add, ID= 53	4300
+add, ID= 54	4500
+add, ID= 55	3000
+add, ID= 56	3100
+add, ID= 57	3900
+add, ID= 58	5100
+add, ID= 59	4300
+add, ID= 60	4700
+add, ID= 61	4800
+add, ID= 62	10300
+add, ID= 63	4700
+add, ID= 64	4500
+add, ID= 65	6200
+add, ID= 66	4100
+add, ID= 67	4100
+add, ID= 68	3500
+add, ID= 69	3600
+add, ID= 70	3700
+add, ID= 71	3600
+add, ID= 72	3200
+add, ID= 73	4400
+add, ID= 74	3100
+add, ID= 75	4000
+add, ID= 76	27400
+add, ID= 77	6800
+add, ID= 78	6300
+add, ID= 79	6300
+add, ID= 80	5300
+add, ID= 81	5800
+add, ID= 82	4500
+add, ID= 83	5600
+add, ID= 84	7000
+add, ID= 85	4200
+add, ID= 86	3800
+add, ID= 87	4800
+add, ID= 88	5300
+add, ID= 89	4700
+add, ID= 90	6500
+add, ID= 91	4400
+add, ID= 92	7000
+add, ID= 93	5400
+add, ID= 94	3800
+add, ID= 95	4600
+add, ID= 96	5800
+add, ID= 97	4900
+add, ID= 98	3900
+add, ID= 99	5100
+addTotalCount = 100
+addTotalTime = 639200
+addMedianTime = 6392
+remove, ID= 45	80800
+remove, ID= 52	34000
+remove, ID= 3	54400
+remove, ID= 29	37800
+remove, ID= 8	32000
+remove, ID= 22	24600
+remove, ID= 64	21600
+remove, ID= 49	26900
+remove, ID= 82	29200
+remove, ID= 87	33500
+removeTotalCount = 10
+removeTotalTime = 374800
+removeMedianTime = 37480
+Программа завершена - 19:12:08
+
+Программа запущена - 19:12:44
+~ArrayList - 100
+add,ID= 0 9100
+add,ID= 1 2300
+add,ID= 2 2700
+add,ID= 3 1900
+add,ID= 4 2000
+add,ID= 5 1900
+add,ID= 6 2700
+add,ID= 7 2100
+add,ID= 8 2400
+add,ID= 9 2200
+add,ID= 10 14700
+add,ID= 11 1900
+add,ID= 12 1600
+add,ID= 13 2100
+add,ID= 14 1800
+add,ID= 15 11300
+add,ID= 16 1700
+add,ID= 17 1800
+add,ID= 18 2400
+add,ID= 19 1800
+add,ID= 20 1300
+add,ID= 21 1900
+add,ID= 22 10600
+add,ID= 23 1200
+add,ID= 24 2000
+add,ID= 25 1300
+add,ID= 26 1800
+add,ID= 27 1800
+add,ID= 28 1200
+add,ID= 29 1200
+add,ID= 30 1300
+add,ID= 31 1500
+add,ID= 32 1900
+add,ID= 33 8600
+add,ID= 34 2800
+add,ID= 35 2500
+add,ID= 36 3700
+add,ID= 37 2600
+add,ID= 38 3200
+add,ID= 39 2600
+add,ID= 40 3000
+add,ID= 41 2400
+add,ID= 42 2400
+add,ID= 43 1900
+add,ID= 44 2200
+add,ID= 45 1700
+add,ID= 46 3400
+add,ID= 47 3200
+add,ID= 48 2500
+add,ID= 49 15500
+add,ID= 50 1500
+add,ID= 51 3300
+add,ID= 52 2800
+add,ID= 53 1400
+add,ID= 54 2000
+add,ID= 55 900
+add,ID= 56 800
+add,ID= 57 2000
+add,ID= 58 2000
+add,ID= 59 1300
+add,ID= 60 1700
+add,ID= 61 1400
+add,ID= 62 1100
+add,ID= 63 1900
+add,ID= 64 2200
+add,ID= 65 1900
+add,ID= 66 1800
+add,ID= 67 1900
+add,ID= 68 2200
+add,ID= 69 3200
+add,ID= 70 2600
+add,ID= 71 1800
+add,ID= 72 2700
+add,ID= 73 17100
+add,ID= 74 1400
+add,ID= 75 2100
+add,ID= 76 1700
+add,ID= 77 1400
+add,ID= 78 1300
+add,ID= 79 2200
+add,ID= 80 2900
+add,ID= 81 1600
+add,ID= 82 2300
+add,ID= 83 2500
+add,ID= 84 2300
+add,ID= 85 2100
+add,ID= 86 2200
+add,ID= 87 2700
+add,ID= 88 2000
+add,ID= 89 1200
+add,ID= 90 1500
+add,ID= 91 1400
+add,ID= 92 1800
+add,ID= 93 900
+add,ID= 94 800
+add,ID= 95 1100
+add,ID= 96 2200
+add,ID= 97 1700
+add,ID= 98 1700
+add,ID= 99 900
+addTotalCount = 100
+addTotalTime = 271000
+addMedianTime = 2710
+remove, ID= 93	193400
+remove, ID= 90	56200
+remove, ID= 36	25100
+remove, ID= 19	20100
+remove, ID= 2	22400
+remove, ID= 50	27500
+remove, ID= 35	34300
+remove, ID= 45	40000
+remove, ID= 76	27600
+remove, ID= 21	32200
+removeTotalCount = 10
+removeTotalTime = 478800
+removeMedianTime = 47880
+Программа завершена - 19:12:44
+Программа запущена - 19:12:44
+~LinkedList - 100
+add, ID= 0	93300
+add, ID= 1	14300
+add, ID= 2	3400
+add, ID= 3	2700
+add, ID= 4	3200
+add, ID= 5	4500
+add, ID= 6	3300
+add, ID= 7	5000
+add, ID= 8	2900
+add, ID= 9	4100
+add, ID= 10	8400
+add, ID= 11	6400
+add, ID= 12	3700
+add, ID= 13	2700
+add, ID= 14	3100
+add, ID= 15	3800
+add, ID= 16	3900
+add, ID= 17	1400
+add, ID= 18	6000
+add, ID= 19	2400
+add, ID= 20	3700
+add, ID= 21	2600
+add, ID= 22	2100
+add, ID= 23	2400
+add, ID= 24	2100
+add, ID= 25	1700
+add, ID= 26	2800
+add, ID= 27	3300
+add, ID= 28	4200
+add, ID= 29	3300
+add, ID= 30	2800
+add, ID= 31	2200
+add, ID= 32	4200
+add, ID= 33	5500
+add, ID= 34	5800
+add, ID= 35	2300
+add, ID= 36	3700
+add, ID= 37	5900
+add, ID= 38	4900
+add, ID= 39	4200
+add, ID= 40	4300
+add, ID= 41	4100
+add, ID= 42	4600
+add, ID= 43	4100
+add, ID= 44	3800
+add, ID= 45	3400
+add, ID= 46	4900
+add, ID= 47	3800
+add, ID= 48	4300
+add, ID= 49	4600
+add, ID= 50	5200
+add, ID= 51	4400
+add, ID= 52	3800
+add, ID= 53	4700
+add, ID= 54	4800
+add, ID= 55	4300
+add, ID= 56	3900
+add, ID= 57	4200
+add, ID= 58	3800
+add, ID= 59	2600
+add, ID= 60	2300
+add, ID= 61	2400
+add, ID= 62	3100
+add, ID= 63	2400
+add, ID= 64	2100
+add, ID= 65	4200
+add, ID= 66	3900
+add, ID= 67	2800
+add, ID= 68	3100
+add, ID= 69	2300
+add, ID= 70	3000
+add, ID= 71	1900
+add, ID= 72	2800
+add, ID= 73	2900
+add, ID= 74	4900
+add, ID= 75	3800
+add, ID= 76	4000
+add, ID= 77	4700
+add, ID= 78	5800
+add, ID= 79	4400
+add, ID= 80	4800
+add, ID= 81	6200
+add, ID= 82	4700
+add, ID= 83	4400
+add, ID= 84	4100
+add, ID= 85	5100
+add, ID= 86	3900
+add, ID= 87	4100
+add, ID= 88	2600
+add, ID= 89	4100
+add, ID= 90	4300
+add, ID= 91	3800
+add, ID= 92	4500
+add, ID= 93	6500
+add, ID= 94	4600
+add, ID= 95	4700
+add, ID= 96	3800
+add, ID= 97	4300
+add, ID= 98	4900
+add, ID= 99	3800
+addTotalCount = 100
+addTotalTime = 487800
+addMedianTime = 4878
+remove, ID= 82	74500
+remove, ID= 83	24700
+remove, ID= 75	32800
+remove, ID= 18	23300
+remove, ID= 17	34200
+remove, ID= 44	16700
+remove, ID= 72	19500
+remove, ID= 85	21700
+remove, ID= 69	21600
+remove, ID= 99	25200
+removeTotalCount = 10
+removeTotalTime = 294200
+removeMedianTime = 29420
+Программа завершена - 19:12:45
+
+Программа запущена - 19:51:24
+~ArrayList - 100
+add,ID= 0 7700
+add,ID= 1 1500
+add,ID= 2 2400
+add,ID= 3 2000
+add,ID= 4 2100
+add,ID= 5 2000
+add,ID= 6 1800
+add,ID= 7 1400
+add,ID= 8 4300
+add,ID= 9 1700
+add,ID= 10 9300
+add,ID= 11 2100
+add,ID= 12 1700
+add,ID= 13 2000
+add,ID= 14 1800
+add,ID= 15 12100
+add,ID= 16 1600
+add,ID= 17 1300
+add,ID= 18 1300
+add,ID= 19 1200
+add,ID= 20 1000
+add,ID= 21 1400
+add,ID= 22 8200
+add,ID= 23 1300
+add,ID= 24 1000
+add,ID= 25 900
+add,ID= 26 1100
+add,ID= 27 1400
+add,ID= 28 1100
+add,ID= 29 800
+add,ID= 30 1100
+add,ID= 31 700
+add,ID= 32 1300
+add,ID= 33 6500
+add,ID= 34 1500
+add,ID= 35 1000
+add,ID= 36 1200
+add,ID= 37 1000
+add,ID= 38 800
+add,ID= 39 1100
+add,ID= 40 1300
+add,ID= 41 900
+add,ID= 42 1100
+add,ID= 43 1500
+add,ID= 44 1100
+add,ID= 45 1500
+add,ID= 46 1300
+add,ID= 47 1400
+add,ID= 48 1300
+add,ID= 49 7000
+add,ID= 50 1400
+add,ID= 51 1200
+add,ID= 52 1300
+add,ID= 53 1300
+add,ID= 54 1400
+add,ID= 55 1000
+add,ID= 56 1000
+add,ID= 57 1000
+add,ID= 58 1500
+add,ID= 59 1400
+add,ID= 60 1600
+add,ID= 61 3800
+add,ID= 62 1800
+add,ID= 63 1600
+add,ID= 64 2700
+add,ID= 65 1600
+add,ID= 66 1500
+add,ID= 67 2500
+add,ID= 68 2200
+add,ID= 69 1700
+add,ID= 70 1700
+add,ID= 71 2600
+add,ID= 72 1900
+add,ID= 73 16600
+add,ID= 74 2600
+add,ID= 75 2600
+add,ID= 76 2100
+add,ID= 77 1900
+add,ID= 78 1200
+add,ID= 79 1900
+add,ID= 80 1600
+add,ID= 81 1600
+add,ID= 82 1200
+add,ID= 83 900
+add,ID= 84 600
+add,ID= 85 600
+add,ID= 86 1200
+add,ID= 87 1400
+add,ID= 88 1000
+add,ID= 89 1100
+add,ID= 90 4500
+add,ID= 91 1000
+add,ID= 92 600
+add,ID= 93 500
+add,ID= 94 1000
+add,ID= 95 800
+add,ID= 96 1500
+add,ID= 97 1000
+add,ID= 98 1100
+add,ID= 99 1600
+addTotalCount = 100
+addTotalTime = 207500
+addMedianTime = 2075
+remove, ID= 6	172800
+remove, ID= 9	35200
+remove, ID= 81	16200
+remove, ID= 71	18000
+remove, ID= 35	13300
+remove, ID= 14	21300
+remove, ID= 89	25400
+remove, ID= 4	26700
+remove, ID= 23	19900
+remove, ID= 4	30100
+removeTotalCount = 10
+removeTotalTime = 378900
+removeMedianTime = 37890
+Программа завершена - 19:51:24
+Программа запущена - 19:51:24
+~LinkedList - 100
+add, ID= 0	131500
+add, ID= 1	12000
+add, ID= 2	2700
+add, ID= 3	3500
+add, ID= 4	3800
+add, ID= 5	3200
+add, ID= 6	3100
+add, ID= 7	3100
+add, ID= 8	4200
+add, ID= 9	4100
+add, ID= 10	4300
+add, ID= 11	12400
+add, ID= 12	3300
+add, ID= 13	2800
+add, ID= 14	3700
+add, ID= 15	3100
+add, ID= 16	2800
+add, ID= 17	2300
+add, ID= 18	2700
+add, ID= 19	2400
+add, ID= 20	2100
+add, ID= 21	1600
+add, ID= 22	1700
+add, ID= 23	1700
+add, ID= 24	1900
+add, ID= 25	1800
+add, ID= 26	3300
+add, ID= 27	3800
+add, ID= 28	1900
+add, ID= 29	2600
+add, ID= 30	2600
+add, ID= 31	2200
+add, ID= 32	2200
+add, ID= 33	1600
+add, ID= 34	1800
+add, ID= 35	2400
+add, ID= 36	2100
+add, ID= 37	1900
+add, ID= 38	1900
+add, ID= 39	2000
+add, ID= 40	1700
+add, ID= 41	1800
+add, ID= 42	1100
+add, ID= 43	2600
+add, ID= 44	3500
+add, ID= 45	3000
+add, ID= 46	2600
+add, ID= 47	1600
+add, ID= 48	1700
+add, ID= 49	2000
+add, ID= 50	2100
+add, ID= 51	2600
+add, ID= 52	3000
+add, ID= 53	4400
+add, ID= 54	2600
+add, ID= 55	4800
+add, ID= 56	3700
+add, ID= 57	4000
+add, ID= 58	5200
+add, ID= 59	3000
+add, ID= 60	3000
+add, ID= 61	3300
+add, ID= 62	3400
+add, ID= 63	3700
+add, ID= 64	3100
+add, ID= 65	3100
+add, ID= 66	2600
+add, ID= 67	3100
+add, ID= 68	3600
+add, ID= 69	2400
+add, ID= 70	2500
+add, ID= 71	2500
+add, ID= 72	3000
+add, ID= 73	7100
+add, ID= 74	3900
+add, ID= 75	3000
+add, ID= 76	2900
+add, ID= 77	4300
+add, ID= 78	4200
+add, ID= 79	3300
+add, ID= 80	2800
+add, ID= 81	3400
+add, ID= 82	2800
+add, ID= 83	2700
+add, ID= 84	1200
+add, ID= 85	1600
+add, ID= 86	2500
+add, ID= 87	2000
+add, ID= 88	1500
+add, ID= 89	1900
+add, ID= 90	2600
+add, ID= 91	2300
+add, ID= 92	2700
+add, ID= 93	2500
+add, ID= 94	2600
+add, ID= 95	1900
+add, ID= 96	18000
+add, ID= 97	2400
+add, ID= 98	3000
+add, ID= 99	2200
+addTotalCount = 100
+addTotalTime = 441700
+addMedianTime = 4417
+remove, ID= 34	44200
+remove, ID= 26	17400
+remove, ID= 63	17200
+remove, ID= 93	10500
+remove, ID= 12	9200
+remove, ID= 98	12400
+remove, ID= 12	11800
+remove, ID= 60	11400
+remove, ID= 15	8800
+remove, ID= 72	8700
+removeTotalCount = 10
+removeTotalTime = 151600
+removeMedianTime = 15160
+Программа завершена - 19:51:24
+
